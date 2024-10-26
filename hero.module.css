@@ -1,0 +1,15 @@
+/* components/Hero.module.css */
+.hero {
+  background-color: #e2e2e2;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.hero h2 {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+.hero p {
+  font-size: 1.2rem;
+}

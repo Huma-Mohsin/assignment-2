@@ -1,0 +1,20 @@
+.header {
+    background-color: #4a90e2;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .title {
+    margin: 0;
+  }
+  
+  .navList {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .navList li {
+    display: inline;
+    margin: 0 15px;
+  }

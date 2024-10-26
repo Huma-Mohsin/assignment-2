@@ -1,0 +1,5 @@
+Assignment 2
+- Create a component folder
+- Inside component folder create 3 components Header Footer & Hero
+- Styled them properly using custom css (Not Tailwind Css)
+- Use all components in home about and contact us page
