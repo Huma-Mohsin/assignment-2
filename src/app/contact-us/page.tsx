@@ -7,6 +7,26 @@ const Contact = () => {
     <div>
       <Header/>
       <h1>Contact Page</h1>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
       <Footer/>
     </div>
   )
